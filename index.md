@@ -10,6 +10,12 @@ This website contains projects completed throughout my Computer Science degree a
 
 I am pursuing a career as a Network Engineer. Throughout my degree I have gained experience in software development, databases, algorithms, cybersecurity, networking, and software engineering.
 
+## Code Review
+
+This code review examines the original artifact selected for enhancement and identifies opportunities to improve its structure, functionality, security, and overall quality.
+
+[Watch My Code Review Video](PASTE-VIDEO-LINK-HERE)
+
 ## Artifacts
 
 Coming Soon
