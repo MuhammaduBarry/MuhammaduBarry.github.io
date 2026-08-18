@@ -34,7 +34,7 @@ The following artifacts demonstrate my growth throughout the Computer Science pr
 
 This enhancement demonstrates my ability to evaluate and improve an existing software project using software engineering principles.
 
-- [Original Artifact](https://drive.google.com/file/d/1oF14Us46j2pBQEIHtvLtcmPoU3rtklrG/view?usp=sharing)
+- [Original Artifact](https://drive.google.com/file/d/158-Zw1esTmGIofLgSziVJwwgPOiR1yJc/view?usp=drive_link)
 - [Enhanced Artifact](https://drive.google.com/file/d/1gJAso2B15_AJZFKE0CPnRvSjWXDrR-4W/view?usp=drive_link)
 - [Enhancement Narrative](https://docs.google.com/document/d/1bs0zcXI090xeOXGl98VsORXgG64z5zJG/edit?usp=sharing&ouid=114698362475319033850&rtpof=true&sd=true)
 
