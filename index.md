@@ -42,9 +42,9 @@ This enhancement demonstrates my ability to evaluate and improve an existing sof
 
 This enhancement demonstrates my understanding of selecting and implementing appropriate data structures and algorithms to improve efficiency and maintainability.
 
-- Original Artifact - Coming Soon
-- Enhanced Artifact - Coming Soon
-- Enhancement Narrative - Coming Soon
+- [Original Artifact](https://drive.google.com/file/d/1i9uTYrD0eRcZlbN2x_Ix6UvPKb6NMOTo/view?usp=drive_link)
+- [Enhanced Artifact](https://drive.google.com/file/d/1nOCANWCPHyjUibAWVO6dIuulUF4aMX1l/view?usp=drive_link)
+- [Enhancement Narrative](https://docs.google.com/document/d/1Em7TwbFffAT59E3WX83-2V8gAvENqiqA/edit?usp=drive_link&ouid=114698362475319033850&rtpof=true&sd=true)
 
 ### Databases
 
