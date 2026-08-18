@@ -50,9 +50,9 @@ This enhancement demonstrates my understanding of selecting and implementing app
 
 This enhancement demonstrates my ability to work with database-driven applications and improve how information is stored, retrieved, and managed.
 
-- Original Artifact - Coming Soon
-- Enhanced Artifact - Coming Soon
-- Enhancement Narrative - Coming Soon
+- [Original Artifact](https://drive.google.com/file/d/1kwDbicOJ0l6H-hBIoEYR33-2uRNOjEW_/view?usp=drive_link)
+- [Enhanced Artifact](https://drive.google.com/file/d/1qSqV_Nmq0zsy0m4kBvRpYZwi3VVWNosU/view?usp=drive_link)
+- [Enhancement Narrative](https://docs.google.com/document/d/1jHSCTLvaoQnhJe_FZ9Xn95CmoHRFy-aT/edit?usp=drive_link&ouid=114698362475319033850&rtpof=true&sd=true)
 
 ## Skills
 
